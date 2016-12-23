@@ -1,5 +1,7 @@
 This repository is a sample to illustrate using wildcards with optional parameters in [express.js](http://expressjs.com/). The project was bootstrapped with the node express generator.
 
+For more information [please read this article](http://cereal.co/unknown-amount-of-optional-parameters-in-express-js-routes/).
+
 1. The only file that has been modified is [`/routes/users.js`](https://github.com/theshaune/node.express.wildcard-and-optional-routes/blob/master/routes/users.js).
 
 ## Getting started
